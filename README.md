@@ -1,4 +1,11 @@
-## Hi there 👋
+# sachagonzales
+
+## courses 
+
+- CSC 101 - **Introduction to Computing**
+
+- DAT 101- **Data Analytics** 
+Hi there 👋
 
 <!--
 **sachagonzales/sachagonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
